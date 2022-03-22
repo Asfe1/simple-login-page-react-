@@ -1,12 +1,12 @@
 
 import './App.css';
-import Background from './component/Login-form/Login';
+import Login from './component/Login-form/Login';
 
 function App() {
   return (
     <div >
       <div  >
-        <Background></Background>
+        <Login></Login>
       </div>
     </div >
   );
