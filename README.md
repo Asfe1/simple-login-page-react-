@@ -1,5 +1,5 @@
-live link: https://amazing-meringue-008846.netlify.app/
-note: this page is fully responsive for mobile, tab and pc
+# live link: https://amazing-meringue-008846.netlify.app/
+# note: this page is fully responsive for mobile, tab and pc
 
 
 
