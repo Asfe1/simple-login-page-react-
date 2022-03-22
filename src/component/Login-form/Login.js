@@ -8,8 +8,8 @@ import img2 from '../images/google.png'
 const Login = () => {
     return (
         <div className='background d-flex flex-row-reverse '>
-            <div className='col-lg-1'></div>
-            <form action="" id='form' className='border text-center bg-white col-lg-4 '>
+            <div className='col-lg-1 col-md-1 col-sm-2 '></div>
+            <form action="" id='form' className='border text-center bg-white col-lg-4 col-md-6 col-sm-8'>
                 <div >
                     <img className='img-fluid' src={logo} id="logo" alt="" />
                     <p id='p1'>Explore The Best Tours... Hurry up!!</p>
