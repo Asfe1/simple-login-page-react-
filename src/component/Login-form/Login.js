@@ -8,8 +8,8 @@ import img2 from '../images/google.png'
 const Login = () => {
     return (
         <div className='background d-flex flex-row-reverse '>
-            <div className='col-lg-1 col-md-1 col-sm-2 '></div>
-            <form action="" id='form' className='border text-center bg-white col-lg-4 col-md-6 col-sm-8'>
+            <div className='col-lg-1 col-md-1  col-sm-1'></div>
+            <form action="" id='form' className='border text-center bg-white col-lg-4 col-md-6 col-sm-8 col-12'>
                 <div >
                     <img className='img-fluid' src={logo} id="logo" alt="" />
                     <p id='p1'>Explore The Best Tours... Hurry up!!</p>
@@ -26,8 +26,8 @@ const Login = () => {
                         <hr className='' />
                     </div >
                     <div className='d-flex justify-content-center'>
-                        <a href="/#"> <img className='img' src={img1} alt="" /></a>
-                        <a href="/#"> <img className='img' src={img2} alt="" /></a>
+                        <a href="/#"> <img id='img1' src={img1} alt="" /></a>
+                        <a href="/#"> <img id='img2' src={img2} alt="" /></a>
                     </div>
                     <p id='bottom-p1'>Don't have an account? <a href="/#">Sign Up</a> </p>
                 </div>

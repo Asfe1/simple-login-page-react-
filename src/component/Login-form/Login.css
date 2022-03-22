@@ -54,6 +54,7 @@
     display: block;
     color: red;
     padding-left: 35%;
+    font-size: 14px;
 }
 
 #bottom-p1{
@@ -65,7 +66,11 @@
     color: #09a7e6;
     font-weight: 600;
 }
-.img{
+#img1{
+    width: 49px;
+    margin:0px 20px ;
+}
+#img2{
     width: 45px;
     margin:0px 20px ;
 }
